@@ -1,0 +1,10 @@
+C:\Users\RAMON ANTONIO\source\repos\crudautoincrementable\crudautoincrementable\bin\Debug\crudautoincrementable.exe.config
+C:\Users\RAMON ANTONIO\source\repos\crudautoincrementable\crudautoincrementable\bin\Debug\crudautoincrementable.exe
+C:\Users\RAMON ANTONIO\source\repos\crudautoincrementable\crudautoincrementable\bin\Debug\crudautoincrementable.pdb
+C:\Users\RAMON ANTONIO\source\repos\crudautoincrementable\crudautoincrementable\obj\Debug\crudautoincrementable.csprojAssemblyReference.cache
+C:\Users\RAMON ANTONIO\source\repos\crudautoincrementable\crudautoincrementable\obj\Debug\crudautoincrementable.Form1.resources
+C:\Users\RAMON ANTONIO\source\repos\crudautoincrementable\crudautoincrementable\obj\Debug\crudautoincrementable.Properties.Resources.resources
+C:\Users\RAMON ANTONIO\source\repos\crudautoincrementable\crudautoincrementable\obj\Debug\crudautoincrementable.csproj.GenerateResource.cache
+C:\Users\RAMON ANTONIO\source\repos\crudautoincrementable\crudautoincrementable\obj\Debug\crudautoincrementable.csproj.CoreCompileInputs.cache
+C:\Users\RAMON ANTONIO\source\repos\crudautoincrementable\crudautoincrementable\obj\Debug\crudautoincrementable.exe
+C:\Users\RAMON ANTONIO\source\repos\crudautoincrementable\crudautoincrementable\obj\Debug\crudautoincrementable.pdb
